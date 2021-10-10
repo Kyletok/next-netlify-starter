@@ -17,8 +17,6 @@ export default function Home() {
     <a href="#test">link text</a>
         </p>
       </main>
-
-      <Footer />
     </div>
   )
 }
