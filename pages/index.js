@@ -14,6 +14,7 @@ export default function Home() {
         <Header title="Welcome to my app!" />
         <p className="description">
           Get started by editing test <code>pages/index.js</code>
+    <a href="#test">link text</a>
         </p>
       </main>
 
